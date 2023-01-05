@@ -197,6 +197,7 @@ use this [branch](https://github.com/BochilGaming/games-wabot/tree/multi-device)
 [![idhamthoriqbot](https://github.com/idhamthoriqbot.png?size=100)](https://github.com/idhamthoriqbot)
 [![Adiixyz](https://github.com/Adiixyz.png?size=100)](https://github.com/Adiixyz)
 <a href="https://github.com/zatu22"><img src="https://github.com/zatu22.png" width="100" height="100" alt="zatu22"/></a>
+[![jayyalfarezy](https://github.com/jayyalfarezy.png?size=100)](https://github.com/jayyalfarezy)
 [![arisawali2014](https://github.com/arisawali2014.png?size=100)](https://github.com/arisawali2014)
 [![Nobuyaki](https://github.com/Nobuyaki.png?size=100)](https://github.com/Nobuyaki)
 [![unx21](https://github.com/unx21.png?size=100)](https://github.com/unx21)
